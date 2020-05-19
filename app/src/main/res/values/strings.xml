@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cognitio Admin</string>
+
+    <string-array name="tshirt_size">
+        <item>XS (34)</item>
+        <item>S (36)</item>
+        <item>M (38)</item>
+        <item>L (40)</item>
+        <item>XL (42)</item>
+        <item>XXL (44)</item>
+    </string-array>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+</resources>
